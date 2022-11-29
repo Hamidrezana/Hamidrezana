@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Former Team Lead | Now Simple Software Engineer | Decentralizer
+  Software Engineer | Former Team Lead | Decentralizing Everything
 </h3>
 
 ---
